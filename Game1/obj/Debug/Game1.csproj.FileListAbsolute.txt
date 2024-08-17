@@ -1,0 +1,39 @@
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.StartGame.resources
+C:\Users\admin\Downloads\.ipynb_checkpoints\Game1\Game1\obj\Debug\Game1.Game2.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.Game2.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.StartGame.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\Game1\Game1\obj\Debug\Game1.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\bin\Debug\Game1.exe.config
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\bin\Debug\Game1.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\bin\Debug\Game1.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.csproj.AssemblyReference.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.csproj.SuggestedBindingRedirects.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.Form1.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.Game2.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.StartGame.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\Game1\Game1\obj\Debug\Game1.pdb
